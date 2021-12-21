@@ -1,16 +1,16 @@
 # Termicomic
-You can make comics in terminal with Termicomic / Termicomic İle terminal içinde çizgi roman yapabilirsiniz
+You can make comics in terminal with Termicomic / Termicomic İle terminal içinde çizgi roman yapabilirsiniz<br>
 
-# Tuşlar
-`n`: sıradaki sayfaya geçer
-`b`: önceki sayfaya geçer
+# Tuşlar / Keys
+`n`: sıradaki sayfaya geçer<br>
+`b`: önceki sayfaya geçer<br>
+<br>
+`add(scene)`: Sayfa oluşturur<br>
+`start()` Çizgi romanı görüntüler<br>
 
-`add(scene)`: Sayfa oluşturur
-`start()` Çizgi romanı görüntüler
 
 
-
-# Example
+# Örnek / Example
 ```python
 import comic
 t=comic.Termicomic()
